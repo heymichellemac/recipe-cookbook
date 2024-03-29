@@ -1,13 +1,13 @@
 {% include 'partials/_header.html' %}
 
-<div id="recipe" class="paper mx-2 my-4 p-10 rounded-sm" style="background-color: #f2e5c8;">
+<div id="recipe" class="paper md:mx-2 md:my-4 p-6 md:p-10 rounded-sm" style="background-color: #f2e5c8;">
 
     <hr style="border: 2px solid black; margin-bottom:.5rem" />
     <h1 class="text-4xl font-medium">{{ title }}</h1>
     <hr style="border: 2px solid black; margin-top:.5rem" />
     <hr style="border: 1px solid black; margin-top:.25rem" />
 
-    <div class="pt-6 pl-8">
+    <div class="pt-6 md:pl-8">
     {{ content | safe }}
     </div>
 

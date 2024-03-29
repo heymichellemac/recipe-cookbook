@@ -1,6 +1,6 @@
 {% include 'partials/_header.html' %}
 
-<div id="recipe" class="paper mx-2 my-4 p-10 rounded-sm" style="background-color: #f2e5c8;">
+<div id="recipe" class="paper md:mx-2 md:my-4 p-6 md:p-10 rounded-sm" style="background-color: #f2e5c8;">
     
     <hr style="border: 2px solid black; margin-bottom:.5rem" />
     <h1 class="text-4xl font-medium">{{ title }}</h1>
@@ -9,7 +9,7 @@
 
     <h2 class="text-3xl pt-4 pb-2"> Ingredients </h2>
 
-    <ul class="list-disc pl-6">
+    <ul class="list-disc pl-5">
         {% for ingredient in ingredients %}
         <li>{{ ingredient | safe }}</li>
         {% endfor %}
