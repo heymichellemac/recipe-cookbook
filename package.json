@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "npm-run-all --parallel dev:css dev:html",
     "dev:css": "npx tailwindcss -i style.css -o style.out.css --watch && npx @11ty/eleventy --serve",
-    "dev:html": "npx @11ty/eleventy --serve"
+    "dev:html": "npx @11ty/eleventy --serve",
+    "prod": "npx tailwindcss -i ./style.css -o ./_site/style.css"
+
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
