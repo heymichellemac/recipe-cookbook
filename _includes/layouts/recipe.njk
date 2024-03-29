@@ -1,15 +1,21 @@
 {% include 'partials/_header.html' %}
 
 <div id="recipe" class="paper mx-2 my-4 p-10 rounded-sm" style="background-color: #f2e5c8;">
-
+    
     <hr style="border: 2px solid black; margin-bottom:.5rem" />
     <h1 class="text-4xl font-medium">{{ title }}</h1>
     <hr style="border: 2px solid black; margin-top:.5rem" />
     <hr style="border: 1px solid black; margin-top:.25rem" />
 
-    <div class="pt-6 pl-8">
+    <h2 class="text-3xl pt-4 pb-2"> Ingredients </h2>
+
+    <ul class="list-disc pl-6">
+        {% for ingredient in ingredients %}
+        <li>{{ ingredient | safe }}</li>
+        {% endfor %}
+    </ul>
+
     {{ content | safe }}
-    </div>
 
     <hr style="border: 2px solid black; margin-top:1.5rem" />
     <hr style="border: 1px solid black; margin-top:.25rem" />

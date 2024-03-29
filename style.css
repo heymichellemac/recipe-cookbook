@@ -2,3 +2,66 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    font-family: "EB Garamond", serif;
+}
+
+.paper {
+    position: relative;
+}
+
+.paper,
+.paper::before,
+.paper::after {
+  /* Styles to distinguish sheets from one another */
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.25);
+  border: 1px solid #e5ddb5;
+}
+
+.paper::before,
+.paper::after {
+  content: "";
+  position: absolute;
+  height: 95%;
+  width: 99%;
+  background-color: #f3e1ba;
+}
+
+.paper::before {
+  right: 15px;
+  top: 0;
+  transform: rotate(-1deg);
+  z-index: -1;
+}
+
+.paper::after {
+  top: 5px;
+  right: -5px;
+  transform: rotate(1deg);
+  z-index: -2;
+}
+
+#recipe h2{
+  font-size: 30px;
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+}
+
+#recipe ol {
+  padding-left: 1.5rem;
+}
+
+#recipe ol li {
+  list-style-type: decimal;
+}
+
+#recipe a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-color: #dc2626;
+}
+
+#recipe a:hover {
+  color: #dc2626;
+}
