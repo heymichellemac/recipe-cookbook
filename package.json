@@ -1,0 +1,18 @@
+{
+  "name": "11ty-tailwind-starter",
+  "version": "0.1.0",
+  "description": "Project for quick starting a site with 11TY and Tailwind CSS",
+  "author": "heymichellemac",
+  "scripts": {
+    "dev": "npm-run-all --parallel dev:css dev:html",
+    "dev:css": "npx tailwindcss -i style.css -o style.out.css --watch && npx @11ty/eleventy --serve",
+    "dev:html": "npx @11ty/eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
