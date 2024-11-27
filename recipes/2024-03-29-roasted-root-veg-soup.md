@@ -23,4 +23,3 @@ ingredients:
 5. Transfer the roasted veg into the saucepan and simmer for 5 mins.
 6. Blitz up into a soup and serve with crusty rolls.
 
-## Notes

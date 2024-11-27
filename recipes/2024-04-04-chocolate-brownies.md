@@ -28,4 +28,3 @@ ingredients:
 8. Pour into the tin and bake for 30-35 mins.
 9. Leave to cool, cut up and dust with icing sugar.
 
-## Notes

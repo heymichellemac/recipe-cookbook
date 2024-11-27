@@ -17,4 +17,3 @@ ingredients:
 2. Add all the ingredients into a food processor and buzz until fluffy.
 3. Divide the mix into bun cases and bake for 12-15 mins
 
-## Notes

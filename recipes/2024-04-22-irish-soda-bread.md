@@ -20,5 +20,3 @@ ingredients:
 4. Shape the dough into a flat round loaf and add to a baking sheet. Make a deep cross across the top.
 5. Bake for 30-35 mins until the bottom of the loaf sounds hollow when tapped.
 6. Transfer onto a wire rack and leave to cool.
-
-## Notes

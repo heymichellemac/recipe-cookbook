@@ -20,9 +20,7 @@ ingredients:
 ## Method
 1. Fry the mince in a pan until browned. Remove and place into a bowl.
 2. Add the chopped veg to the pan and cook for 5 mins.
-3. Stir in floud, stock, tomato puree, salt and pepper and cook for 30 mins.
+3. Stir in flour, stock, tomato puree, salt and pepper and cook for 30 mins.
 4. Top with mashed potatoes.
 5. Cook at 190C for 30-40 mins.
 6. Optional: sprinke on grated cheese and grill for 5 mins until golden.
-
-## Notes

@@ -31,4 +31,3 @@ ingredients:
 5. Add the cooked meatballs to the pan and cook for 5 mins until the sauce is thickened and the meatballs are coated.
 6. Serve with rice.
 
-## Notes

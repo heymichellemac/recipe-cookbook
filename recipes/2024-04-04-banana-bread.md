@@ -23,4 +23,3 @@ ingredients:
 5. Fold in the sifted flour and cinnamon. Add milk as necessary until it reaches a dropping consistency.
 6. Spoon mixture into a loaf tin and bake for 45 mins.
 
-## Notes

@@ -21,4 +21,3 @@ ingredients:
 5. Cut a line down the center of the loaf and sprinkle with some nuts/seeds.
 6. Cook for 45 mins.
 
-## Notes

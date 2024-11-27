@@ -25,4 +25,3 @@ ingredients:
 7. Pour in the egg mixture and add parsley. 
 8. Cook on a gentle heat for 1 min.
 
-## Notes
