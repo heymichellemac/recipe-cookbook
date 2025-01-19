@@ -2,7 +2,7 @@
 layout: 'layouts/recipe.njk'
 title: Irish soda bread
 category: baking
-serves: 
+serves: Makes 1 loaf
 ingredients:
     - 250g plain flour
     - 250g plain wholemeal flour
@@ -18,5 +18,5 @@ ingredients:
 2. Mix the dry ingredients into a bowl then rub in butter.
 3. Add the buttermilk and mix into a dough.
 4. Shape the dough into a flat round loaf and add to a baking sheet. Make a deep cross across the top.
-5. Bake for 30-35 mins until the bottom of the loaf sounds hollow when tapped.
+5. Bake for 30-35 minutes until the bottom of the loaf sounds hollow when tapped.
 6. Transfer onto a wire rack and leave to cool.

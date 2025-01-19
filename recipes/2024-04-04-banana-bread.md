@@ -2,7 +2,9 @@
 layout: 'layouts/recipe.njk'
 title: Banana bread
 category: baking
-serves: 
+serves: Makes 1 loaf
+preptime: 15 minutes
+cooktime: 45 minutes
 ingredients:
     - 50g margarine
     - 125g brown sugar
@@ -19,7 +21,7 @@ ingredients:
 1. Preheat oven to 180C.
 2. Grease/line a loaf tin.
 3. In a bowl, beat the sugar and butter together until combined and smooth.
-4. Add egg, vanilla, and bananas and mix for 1 min.
+4. Add egg, vanilla, and bananas and mix for 1 minute.
 5. Fold in the sifted flour and cinnamon. Add milk as necessary until it reaches a dropping consistency.
-6. Spoon mixture into a loaf tin and bake for 45 mins.
+6. Spoon mixture into a loaf tin and bake for 45 minutes.
 

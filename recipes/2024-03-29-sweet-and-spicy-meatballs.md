@@ -2,7 +2,9 @@
 layout: 'layouts/recipe.njk'
 title: Sweet and spicy meatballs
 category: dinner
-serves: 
+serves: 2
+preptime: 15 minutes
+cooktime: 20 minutes
 ingredients:
     - ~500g meatballs
     - 1/2 red pepper
@@ -25,9 +27,9 @@ ingredients:
 
 ## Method
 1. Preheat the oven and cook the meatballs according to the pack instructions.
-2. Heat a frying pan and add peppers, garlic, ginger for 3 mins.
+2. Heat a frying pan and add peppers, garlic, ginger for 3 minutes.
 3. Combine the rest of the sauce ingredients and add into a pan with the peppers etc.
-4. Reduce heat and simmer for 5 mins until the sauce begins to thicken.
-5. Add the cooked meatballs to the pan and cook for 5 mins until the sauce is thickened and the meatballs are coated.
+4. Reduce heat and simmer for 5 minutes until the sauce begins to thicken.
+5. Add the cooked meatballs to the pan and cook for 5 minutes until the sauce is thickened and the meatballs are coated.
 6. Serve with rice.
 

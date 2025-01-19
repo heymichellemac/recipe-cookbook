@@ -1,13 +1,13 @@
 ---
-title: Recipes
+title: 
 layout: 'layouts/default.njk'
 ---
 
 <ul>
     {% for recipe in collections.recipes | sort(attribute='data.title') %}
-    <li class="text-2xl flex gap-x-4 pb-4">
-        <a class="underline underline-offset-4 decoration-2 decoration-red-600 hover:text-red-600" href="{{ recipe.url }}">{{ recipe.data.title }}</a>
-        <span>#{{ recipe.data.category }}</span>
+    <li class="text-2xl flex gap-x-6 pb-4 items-center">
+        <a class="underline underline-offset-4 decoration-2 decoration-orange-600 hover:text-orange-600" href="{{ recipe.url }}">{{ recipe.data.title }}</a>
+        <span class="text-lg pt-2">#{{ recipe.data.category }}</span>
     </li>
     {% endfor %}
 </ul>

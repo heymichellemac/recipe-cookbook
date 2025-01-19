@@ -2,7 +2,9 @@
 layout: 'layouts/recipe.njk'
 title: Porridge bread
 category: baking
-serves: 
+serves: Makes 1 loaf
+preptime: 10 minutes
+cooktime: 45 minutes
 ingredients:
     - 500g low fat natural yoghurt
     - 360g porridge oats
@@ -19,5 +21,5 @@ ingredients:
 3. Stir in oats, salt, and mixed seeds.
 4. Blend all the ingredients into a doughy texture and add to loaf tin.
 5. Cut a line down the center of the loaf and sprinkle with some nuts/seeds.
-6. Cook for 45 mins.
+6. Cook for 45 minutes.
 

@@ -24,9 +24,9 @@ body {
 #recipe a {
   text-decoration: underline;
   text-underline-offset: 4px;
-  text-decoration-color: #dc2626;
+  text-decoration-color: #ea580c;
 }
 
 #recipe a:hover {
-  color: #dc2626;
+  color: #ea580c;
 }
